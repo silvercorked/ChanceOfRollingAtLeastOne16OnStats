@@ -1,5 +1,3 @@
-package chance.character.rolls;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
