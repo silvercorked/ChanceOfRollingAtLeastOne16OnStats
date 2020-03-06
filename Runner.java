@@ -1,5 +1,3 @@
-package chance.character.rolls;
-
 import java.math.BigDecimal;
 
 public class Runner {
